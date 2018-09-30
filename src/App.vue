@@ -35,7 +35,7 @@
     </div>
   </header>
 
-  <div class="container my-5" id="app">
+  <div class="container my-5">
     <h2>Alerts</h2>
 
     <bs-alert class="alert alert-primary alert-dismissible fade show" role="alert">
